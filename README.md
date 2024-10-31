@@ -1,7 +1,4 @@
-# Terminal en Menú Contextual
-¡Claro! Aquí tienes un archivo `README.md` para tu script `menu.ps1`. Incluye una descripción general, instrucciones de uso y pasos para la desinstalación.
-
----
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/terminalenmenucontextual/main/terminal.png)
 
 # Menú Contextual: Abrir Terminal Aquí
 
