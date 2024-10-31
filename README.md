@@ -1,4 +1,4 @@
-![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/terminalenmenucontextual/main/terminal.png)
+![logo](https://i3.wp.com/raw.githubusercontent.com/nda-web/terminalenmenucontextual/main/terminal.png)
 
 # Menú Contextual: Abrir Terminal Aquí
 
